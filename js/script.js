@@ -10,12 +10,10 @@
  */
 function calculate () {
   // input
-  const baseA = parseInt(document.getElementById("base-A").value)
-  const baseB = parseInt(document.getElementById("base-B").value)
-  const height = parseInt(document.getElementById("height-of-trapezoid").value)
+  const fahrenheit = parseInt(document.getElementById("fahrenheit").value)
   // process
-  const area = [(baseA + baseB)/ 2] * height
+  const celsius = (fahrenheit - 32) * 5.0 / 9.0
   // output
-  document.getElementById("area").innerHTML =
-    "The area is: " + area + ' mm²' 
+  document.getElementById("celsius").innerHTML =
+    "The temperature in Celsius is: " + celsius + ' °C' 
 }
