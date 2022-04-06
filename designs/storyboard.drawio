@@ -16,8 +16,8 @@
                 <mxCell id="5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Formula&lt;/font&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="100" y="200" width="80" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="&lt;font style=&quot;font-size: 17px&quot;&gt;(a&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;°F - a) x 5/9&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-                    <mxGeometry x="100" y="230" width="120" height="20" as="geometry"/>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 17px&quot;&gt;(a&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;°F - 32) x 5/9&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="230" width="130" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Enter Fahrenheit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
                     <mxGeometry x="100" y="340" width="120" height="30" as="geometry"/>
